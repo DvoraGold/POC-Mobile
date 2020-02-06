@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="New Button (Catalog Item)">c30fc7212fbac0103c662d6df699b649</button>
+        <item_parameter display_value="Catalog Item active">430fc7212fbac0103c662d6df699b645</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-06 10:46:37</sys_created_on>
+        <sys_id>c30fc7212fbac0103c662d6df699b64e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>430fc7212fbac0103c662d6df699b645</sys_name>
+        <sys_package display_value="POC Application" source="x_410064_poc_appli">419c8f6d2f7ac0103c662d6df699b6f5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="POC Application">419c8f6d2f7ac0103c662d6df699b6f5</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_c30fc7212fbac0103c662d6df699b64e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-06 10:46:37</sys_updated_on>
+        <ui_parameter display_value="Active">c70fc7212fbac0103c662d6df699b649</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

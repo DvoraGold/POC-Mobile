@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_parameter">
+    <sys_sg_ui_parameter action="INSERT_OR_UPDATE">
+        <button display_value="Edit Button (Record Producer)">870fc7212fbac0103c662d6df699b62b</button>
+        <button_parent_table>sc_cat_item_producer</button_parent_table>
+        <carried>false</carried>
+        <constant/>
+        <default_value/>
+        <default_value_type>source_field</default_value_type>
+        <field_name>active</field_name>
+        <input_source>user</input_source>
+        <input_style>inline</input_style>
+        <input_type>text</input_type>
+        <mandatory>false</mandatory>
+        <multi_select>false</multi_select>
+        <name>Active</name>
+        <order/>
+        <parameter_type>button</parameter_type>
+        <placeholder/>
+        <screen/>
+        <search_type>starts_with</search_type>
+        <source_field>active</source_field>
+        <sys_class_name>sys_sg_ui_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-06 10:46:37</sys_created_on>
+        <sys_id>cf0fc7212fbac0103c662d6df699b62b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Active</sys_name>
+        <sys_package display_value="POC Application" source="x_410064_poc_appli">419c8f6d2f7ac0103c662d6df699b6f5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="POC Application">419c8f6d2f7ac0103c662d6df699b6f5</sys_scope>
+        <sys_update_name>sys_sg_ui_parameter_cf0fc7212fbac0103c662d6df699b62b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-06 10:46:37</sys_updated_on>
+        <table_name>sc_cat_item_producer</table_name>
+    </sys_sg_ui_parameter>
+    <sys_translated_text action="delete_multiple" query="documentkey=cf0fc7212fbac0103c662d6df699b62b"/>
+</record_update>

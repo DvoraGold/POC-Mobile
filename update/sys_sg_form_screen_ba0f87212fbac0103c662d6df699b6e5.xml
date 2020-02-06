@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_screen">
+    <sys_sg_form_screen action="INSERT_OR_UPDATE">
+        <available_offline>false</available_offline>
+        <data_item/>
+        <description/>
+        <dynamic_prefetch_count/>
+        <fetch_type>not_required</fetch_type>
+        <hide_filters>false</hide_filters>
+        <icon display_value="icon-Address-Book">e60f8f2d2f7ac0103c662d6df699b681</icon>
+        <item_view display_value="User Detail Screen Item View">b20f87212fbac0103c662d6df699b6e5</item_view>
+        <name>Users</name>
+        <roles_override/>
+        <sys_class_name>sys_sg_form_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-06 10:46:37</sys_created_on>
+        <sys_id>ba0f87212fbac0103c662d6df699b6e5</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Users</sys_name>
+        <sys_package display_value="POC Application" source="x_410064_poc_appli">419c8f6d2f7ac0103c662d6df699b6f5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="POC Application">419c8f6d2f7ac0103c662d6df699b6f5</sys_scope>
+        <sys_update_name>sys_sg_form_screen_ba0f87212fbac0103c662d6df699b6e5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-06 11:37:12</sys_updated_on>
+        <table>sys_user</table>
+    </sys_sg_form_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=ba0f87212fbac0103c662d6df699b6e5"/>
+</record_update>

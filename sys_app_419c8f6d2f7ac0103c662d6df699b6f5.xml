@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app">
+    <sys_app action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <can_edit_in_studio>false</can_edit_in_studio>
+        <enforce_license>none</enforce_license>
+        <guided_setup_guid/>
+        <js_level>helsinki_es5</js_level>
+        <licensable>true</licensable>
+        <license_category>none</license_category>
+        <license_model>none</license_model>
+        <logo>5d9c83612ff6c0103c662d6df699b682</logo>
+        <menu/>
+        <name>POC Application</name>
+        <private>false</private>
+        <restrict_table_access>false</restrict_table_access>
+        <runtime_access_tracking>permissive</runtime_access_tracking>
+        <scope>x_410064_poc_appli</scope>
+        <scoped_administration>false</scoped_administration>
+        <short_description>poc application</short_description>
+        <source>x_410064_poc_appli</source>
+        <store_correlation_id/>
+        <store_url/>
+        <sys_class_name>sys_app</sys_class_name>
+        <sys_code/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-06 10:35:50</sys_created_on>
+        <sys_id>419c8f6d2f7ac0103c662d6df699b6f5</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-06 10:35:52</sys_updated_on>
+        <template/>
+        <trackable>true</trackable>
+        <user_role/>
+        <vendor/>
+        <vendor_prefix/>
+        <version>1.0.0</version>
+    </sys_app>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <file_name>icn_status.png</file_name>
+        <hash>ce761b7414f687268b1c9a2998da2323f818c8ecf933fef96856b1c7bbee42fb</hash>
+        <image_height/>
+        <image_width/>
+        <size_bytes>1422</size_bytes>
+        <size_compressed>1445</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-06 10:35:51</sys_created_on>
+        <sys_id>5d9c83612ff6c0103c662d6df699b682</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2020-02-06 10:35:53</sys_updated_on>
+        <table_name>sys_app</table_name>
+        <table_sys_id>419c8f6d2f7ac0103c662d6df699b6f5</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="icn_status.png" sys_id="5d9c83612ff6c0103c662d6df699b682">5d9c83612ff6c0103c662d6df699b682</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-06 10:35:51</sys_created_on>
+        <sys_id>9d9c83612ff6c0103c662d6df699b682</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>AY4FcfqJUE5HDQoaCgAAAA1JSERSAAAANAAAADQIBgAAAMV4G+sAAAAEc0JJVAgICAh8CGSIAAAFRUlEQVRoQ9WaXWxTZRjH/8/ptrp2OhEkrB0sTruWiRBJdBMx4AWJMUw+jBHijZgYuTHGeCGExI/EDxZv5EbnhZFEjWKMsqAG1IsBM0KI2TAOe1aHsLTd4kSGaU/Xbec85rRrWbuP857T01M8V23O8zz/5/c+5+N9n/MSbDz48viSZDq5HeC1YGoA0EBg38xvgHiEQXEAI/pvgH71ur1HqenWq3alQaUGSl2MN/GUtlNjbCOijQBcJmOqzHxagtRNNfi6ttl32aR/gblloHRkpHVa0zoBbC0lgXl8v6lyufa771rxm5W4poFSQ/FV6rT2BoGeAiBZERXw0Rj8qUtzvVK7uuGSgH3exBRQUo4/C2iHAKo1I2LdllNget4b8n8oGkMIiEdHvco19RMA20UD22rH/KXntpo9tHx5wiiuIVAyElsPjb8A6E6jYOU8z8yR6qqqnUb31qJAihx9kRmdIKouZ7LisY0vwQWBlEi0nVWcunFgZrCZpwj0sCfk/2m+gZgXSJH/9mtI9xOwTHz0nLNkYEySeL0n0BgtVp0DxOGxm5OU7iXQWudStKTU56nxbaA7aGK29xwgZTB2kBkvW5Jw2IkInZ4W/74FgfSXpjatDQLkdjg3i3I8IVVLodnTpYIKJeTY5wQ8aTF6RdwYOFIX9O/KieeBlMHRNmb1TEWyKlG0SpLWuAMNA3qYPFAiHO0hok0lxq6MO+OEN+R/JA+UluOhafDvlclmrurg4ZMYPt6P5sfb0PxEu1BaVaDV7qAvnKlQQo7vI/DbQp5lNhp473uMnMqObV3TMrR36pN644NB++uCvoMZoKQcPQNQm7FbeS1mw+hK617aitvvE51C8llvsLGdEn/+tYImp/RlseFEtZw4xTB3792Chs2tZiQZ7ho/JQeje8H0vhlPu21tgMmkxMR7KBmOdoHoObuTFI1nF0yWiD+gpBw7CmCbaAJ22tkKk02smyr1QCgDjF6is5QMxy6B0GTnyBvFKg+MfsVB1is04eRktFwwmVsIfI0ScnScQPVGozr7/Pl3jmHsl4sw+2gtJ8x1oHAsTISgGaCeZ7owraQzLqJQ5YbJPuQgk5VJ6UjPBQx0/ZAfAyMoJ2CyQHySrK6BRKGcgslecjiiV+hdInrBzCWXszWCchJmpkKHSJFjuxj4zAqQ7rMQlNMwei4E7CaOXLlF0SbGS5mcFkMtaW3E1QvXO0xG95jVwSzyYw/X1Nu2fCiGyok5BJOZJWSWD7qwXQs8o3vKpkrMG6ZggWfnEnzs3BCGv+vDqkfvNbE4Kx21YAmeqdL/uEmiv3/qQo2bZx4M2dFRwrEHmdBb+lg5H4Ek3uAJNP5cAKT/qeTaqIRh6PYG/fkPcQV9hPQfo2umVbXfwpfsEvIpyVWtkqR1uSbjnArNVOk1AK+WJOOc8+veoF/PN3/M/ZzCTIoc7wahw7m8rCjxt54WfwcR8aJA+kke+qdemUqdd3olK4zFGPa4brqHAkv/LfZZsBeX+Vis4jQIHmEhJwwZClzY6A34++aTW7S5mBiMPk1MHzmRp6iG3nura2k8vJC9YbdUiUQf0FQ6RoSloqLlsGPGFcnFHbn3jWUg3VHfoKRO8XECQuVIViBmn1RNO0Q2NhlWKCemf0xWaPLjCjQluz0ebTetXJkSADffoE+GY4+B+ABA94sIWLfhc4D0ljfo0zu7wodwhYojpiIjm1RNO0DAFmE1AUMGfnRJ0pu1gYYeAfM5JpaBcpEyGwAnsUODpm8AfMjCtEnfANgrEbqpWvpK5D5ZDLRkoNnBb4Qtmv8BfGxdnQ+miZYAAAAASUVORK5CYILMUSCbjgUAAA==</data>
+        <length>1916</length>
+        <position>1</position>
+        <sys_attachment display_value="icn_status.png" sys_id="5d9c83612ff6c0103c662d6df699b682">5d9c83612ff6c0103c662d6df699b682</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-06 10:35:51</sys_created_on>
+        <sys_id>119c83612ff6c0103c662d6df699b683</sys_id>
+    </sys_attachment_doc>
+</record_update>
